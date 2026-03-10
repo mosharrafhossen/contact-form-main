@@ -44,8 +44,12 @@ margin-bottom:15px;
 flex:1;
 }
 
+.query-type {
+    margin-bottom: 8px;
+}
+
 label{
-margin-bottom:6px;
+margin-bottom: 6px;
 font-size:16px;
 color:hsl(187,24%,22%);
 }
